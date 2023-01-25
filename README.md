@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Enderson Montaña</h1>
 <h3 align="center">Software developer with experience in design, installation, testing and maintenance of software systems. domain of several platforms, languages and embedded systems. Experience with tools and procedures cutting-edge development. Able to effective self-management in independent projects. Good collaboration skills within a productive team.</h3>
 
