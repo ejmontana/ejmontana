@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enderson Montaña</h1>
-<h3 align="center">Software developer with experience in design, installation, testing and maintenance of software systems. domain of several platforms, languages and embedded systems. Experience with tools and procedures cutting-edge development. Able to effective self-management in independent projects. Good collaboration skills within a productive team.</h3>
+<h3 align="center">Find an organization that allows me to apply the knowledge acquired in the years of study, as well as my ability to plan, organize and direct the operation of a company in companies and the like. Be part of a work team and consolidate professionally in a company where personal achievements and performance are recognized, in addition to allowing opportunities for personal and professional development.
+
+Software developer with experience in design, installation, testing and maintenance of software systems. Mastery of several platforms, languages and integrated systems. Experience with the latest development tools and procedures. Capable of effective self-management in independent projects. Good collaboration skills within a productive team.</h3>
 
 - 🔭 I’m currently working on Consolidez **Soli360**
 
