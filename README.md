@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Enderson Montana
 
-**Backend Developer & Co-Owner** @ [Galilei Smart Solutions](https://github.com/galileicloud)
+**Backend Developer**
 
 Desarrollador Backend especializado en **arquitecturas de N-Capas**, **APIs RESTful** y **bases de datos relacionales**. Enfocado en crear soluciones empresariales robustas, escalables y mantenibles con .NET, Node.js y SQL Server.
 
@@ -8,7 +8,7 @@ Desarrollador Backend especializado en **arquitecturas de N-Capas**, **APIs REST
 
 ## 🚀 Sobre Mí
 
-- 💼 Co-propietario y **Backend Developer** en **Galilei Smart Solutions**
+- 💼 **Backend Developer** especializado en APIs y arquitecturas escalables
 - 🏗️ Arquitecto de **APIs REST** con patrones **Repository**, **Unit of Work** y **Dependency Injection**
 - 🗄️ Especialista en **SQL Server**, **PostgreSQL** (Supabase) y diseño de bases de datos
 - 🔧 Experto en **.NET Core/Framework**, **Node.js** y **TypeScript**
@@ -77,12 +77,7 @@ Desarrollador Backend especializado en **arquitecturas de N-Capas**, **APIs REST
 
 ## 🎯 Proyectos Destacados
 
-### 🏢 Backend APIs - Galilei Smart Solutions
-- **Gali360 Web** - Plataforma empresarial con Next.js + Supabase (PostgreSQL)
-- **GaliSales API** - Backend para app de ventas móvil
-- **Galimate API** - Sistema de estimaciones y cotizaciones
-
-### 🔧 APIs & Integraciones
+### 🔧 Backend APIs & Sistemas
 - **[Memora API](https://github.com/ejmontana/memora-api)** - API de recordatorios con IA (Node.js + TypeScript + SQL Server + Telegram)
 - **[MCP SQL Server](https://github.com/ejmontana/mcp-sql-server)** - Servidor MCP para integración con SQL Server
 - **[WebApiNLayersEmpty](https://github.com/ejmontana/WebApiNLayersEmpty)** - Template de API REST con arquitectura N-Capas (.NET)
@@ -91,6 +86,7 @@ Desarrollador Backend especializado en **arquitecturas de N-Capas**, **APIs REST
 ### 🤖 Bots & Automatización
 - **API Bot WhatsApp** - Sistema de automatización de mensajería
 - **Flow WS Bot** - Bot de flujos automatizados
+- **Bot Telegram con IA** - Integración de inteligencia artificial
 
 ### 🏥 Proyectos Médicos
 - **[Medi-Dosis](https://github.com/ejmontana/medi-dosis)** - Calculadora de dosificación médica
@@ -99,6 +95,10 @@ Desarrollador Backend especializado en **arquitecturas de N-Capas**, **APIs REST
 ### 🎮 Blockchain & NFT
 - **[APINFT](https://github.com/ejmontana/APINFT)** - API para gestión de NFTs
 - **Staking Systems** - Plataformas de staking para criptomonedas
+
+### 📱 Mobile Development
+- **GaliSales App** - Aplicación móvil de ventas (React Native + Expo)
+- **Galimate App** - Sistema de estimaciones móvil
 
 ---
 
@@ -147,7 +147,6 @@ DevOps:
 
 - 💼 LinkedIn: [Enderson Montana](https://linkedin.com/in/enderson-montana)
 - 📧 Email: ejmontana@example.com
-- 🌐 Organización: [@galileicloud](https://github.com/galileicloud)
 - 🚀 Especialidad: **Backend Development** | **API Design** | **Database Architecture**
 
 ---
