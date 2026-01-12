@@ -1,19 +1,20 @@
 # 👋 ¡Hola! Soy Enderson Montana
 
-**Backend Developer**
+**Backend Developer & Tech Lead** @ Galilei Smart Solutions
 
-Desarrollador Backend especializado en **arquitecturas de N-Capas**, **APIs RESTful** y **bases de datos relacionales**. Enfocado en crear soluciones empresariales robustas, escalables y mantenibles con .NET, Node.js y SQL Server.
+Coordinador de proyectos y desarrollador backend especializado en **arquitecturas de N-Capas**, **APIs RESTful** y **bases de datos relacionales**. Lidero equipos técnicos en la creación de soluciones empresariales robustas, escalables y mantenibles con .NET, Node.js y SQL Server.
 
 ---
 
 ## 🚀 Sobre Mí
 
-- 💼 **Backend Developer** especializado en APIs y arquitecturas escalables
+- 👨‍💼 **Coordinador de Proyectos & Backend Developer** en Galilei Smart Solutions
+- 🎯 Liderazgo de equipos técnicos y gestión de proyectos de desarrollo
 - 🏗️ Arquitecto de **APIs REST** con patrones **Repository**, **Unit of Work** y **Dependency Injection**
 - 🗄️ Especialista en **SQL Server**, **PostgreSQL** (Supabase) y diseño de bases de datos
 - 🔧 Experto en **.NET Core/Framework**, **Node.js** y **TypeScript**
 - 📱 Desarrollo móvil con **React Native** (Expo) integrando backends propios
-- 🔄 CI/CD workflows y automatización con **GitHub Actions**
+- 🔄 CI/CD workflows, branch protection y automatización con **GitHub Actions**
 - 🎓 Estudiante de Medicina en Universidad Nacional Experimental de los Llanos Centrales
 - 💡 Apasionado por **Clean Architecture**, **SOLID** y mejores prácticas de desarrollo
 
@@ -65,19 +66,27 @@ Desarrollador Backend especializado en **arquitecturas de N-Capas**, **APIs REST
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ejmontana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejmontana&layout=compact&langs_count=8&theme=tokyonight&hide=html,css"/>
-</div>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ejmontana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ejmontana&theme=tokyonight" alt="ejmontana" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ejmontana&layout=compact&langs_count=8&theme=tokyonight&hide=html,css&hide_border=true&bg_color=0d1117)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ejmontana&theme=tokyonight&hide_border=true&background=0d1117)
+
 </div>
 
 ---
 
 ## 🎯 Proyectos Destacados
 
-### 🔧 Backend APIs & Sistemas
+### 🏢 Proyectos Empresariales (Galilei Smart Solutions)
+Como coordinador de proyectos, lidero el desarrollo de:
+- **Gali360 Web** - Plataforma empresarial con Next.js + Supabase (PostgreSQL)
+- **GaliSales App** - Aplicación móvil de ventas (React Native + Expo)
+- **Galimate App** - Sistema de estimaciones y cotizaciones móvil
+- **Backend APIs** - Arquitecturas escalables para aplicaciones empresariales
+
+### 🔧 APIs & Integraciones Personales
 - **[Memora API](https://github.com/ejmontana/memora-api)** - API de recordatorios con IA (Node.js + TypeScript + SQL Server + Telegram)
 - **[MCP SQL Server](https://github.com/ejmontana/mcp-sql-server)** - Servidor MCP para integración con SQL Server
 - **[WebApiNLayersEmpty](https://github.com/ejmontana/WebApiNLayersEmpty)** - Template de API REST con arquitectura N-Capas (.NET)
@@ -96,20 +105,24 @@ Desarrollador Backend especializado en **arquitecturas de N-Capas**, **APIs REST
 - **[APINFT](https://github.com/ejmontana/APINFT)** - API para gestión de NFTs
 - **Staking Systems** - Plataformas de staking para criptomonedas
 
-### 📱 Mobile Development
-- **GaliSales App** - Aplicación móvil de ventas (React Native + Expo)
-- **Galimate App** - Sistema de estimaciones móvil
-
 ---
 
 ## 🌟 Áreas de Especialización
 
+### 👨‍💼 Liderazgo & Gestión
+- 🎯 Coordinación y gestión de proyectos técnicos
+- 👥 Liderazgo de equipos de desarrollo
+- 📋 Planificación y seguimiento de sprints
+- 🔍 Code reviews y control de calidad
+- 📊 Gestión de repositorios y branch protection
+
+### 💻 Desarrollo Técnico
 - 🏗️ **Arquitectura de Software**: N-Capas, Clean Architecture, DDD
 - 🔌 **Diseño de APIs**: REST, GraphQL, microservicios
 - 🗄️ **Bases de Datos**: Diseño, optimización, stored procedures, triggers
 - 🔐 **Seguridad**: JWT, OAuth, encriptación, buenas prácticas
 - 📊 **Patrones de Diseño**: Repository, Unit of Work, Dependency Injection, Factory
-- 🔄 **Integración Continua**: GitHub Actions, deployment automation
+- 🔄 **CI/CD**: GitHub Actions, deployment automation, branch protection
 - 📱 **Full Stack**: Backend fuerte con capacidades frontend/mobile
 - 🧪 **Testing**: Unit tests, integration tests
 
@@ -134,9 +147,10 @@ Mobile & Web:
 ├── Next.js (SSR/SSG)
 └── React + TypeScript
 
-DevOps:
+DevOps & Management:
 ├── Docker containerization
 ├── GitHub Actions CI/CD
+├── Branch protection policies
 ├── Nginx reverse proxy
 └── PM2 process management
 ```
@@ -147,7 +161,8 @@ DevOps:
 
 - 💼 LinkedIn: [Enderson Montana](https://linkedin.com/in/enderson-montana)
 - 📧 Email: ejmontana@example.com
-- 🚀 Especialidad: **Backend Development** | **API Design** | **Database Architecture**
+- 🏢 Empresa: Galilei Smart Solutions
+- 🚀 Roles: **Tech Lead** | **Backend Developer** | **Project Coordinator**
 
 ---
 
@@ -156,5 +171,5 @@ DevOps:
 </div>
 
 <div align="center">
-  <i>🔧 "Clean Code, Scalable Solutions, Robust APIs" 🔧</i>
+  <i>🔧 "Leading teams, Building solutions, Scaling systems" 🔧</i>
 </div>
