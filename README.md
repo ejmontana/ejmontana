@@ -168,7 +168,7 @@ DevOps & Infrastructure:
 ## 📫 Contáctame
 
 - 💼 LinkedIn: [Enderson Montana](https://linkedin.com/in/enderson-montana)
-- 📧 Email: ejmontana@example.com
+- 📧 Email: enderson_josep@hotmail.com
 - 🏢 Empresa: Galilei Smart Solutions
 - 🚀 Roles: **Tech Lead** | **Full Stack Developer** | **Project Coordinator**
 
