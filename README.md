@@ -1,64 +1,64 @@
 # 👋 ¡Hola! Soy Enderson Montana
 
-**Developer & Co-Owner** @ [Galilei Smart Solutions](https://github.com/galileicloud)
+**Backend Developer & Co-Owner** @ [Galilei Smart Solutions](https://github.com/galileicloud)
 
-Desarrollador Full Stack especializado en desarrollo móvil y web, con enfoque en crear soluciones empresariales robustas y escalables. Actualmente trabajando en aplicaciones móviles con React Native y plataformas web con Next.js.
+Desarrollador Backend especializado en **arquitecturas de N-Capas**, **APIs RESTful** y **bases de datos relacionales**. Enfocado en crear soluciones empresariales robustas, escalables y mantenibles con .NET, Node.js y SQL Server.
 
 ---
 
 ## 🚀 Sobre Mí
 
-- 💼 Co-propietario y desarrollador en **Galilei Smart Solutions**
-- 📱 Especialista en **React Native** (Expo) y **Next.js**
-- 🔧 Experto en **CI/CD** workflows y arquitectura de repositorios
+- 💼 Co-propietario y **Backend Developer** en **Galilei Smart Solutions**
+- 🏗️ Arquitecto de **APIs REST** con patrones **Repository**, **Unit of Work** y **Dependency Injection**
+- 🗄️ Especialista en **SQL Server**, **PostgreSQL** (Supabase) y diseño de bases de datos
+- 🔧 Experto en **.NET Core/Framework**, **Node.js** y **TypeScript**
+- 📱 Desarrollo móvil con **React Native** (Expo) integrando backends propios
+- 🔄 CI/CD workflows y automatización con **GitHub Actions**
 - 🎓 Estudiante de Medicina en Universidad Nacional Experimental de los Llanos Centrales
-- 🌐 Trabajo con equipos multidisciplinarios en proyectos empresariales
-- 💡 Apasionado por la automatización y las mejores prácticas de desarrollo
+- 💡 Apasionado por **Clean Architecture**, **SOLID** y mejores prácticas de desarrollo
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-### Frontend & Mobile
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-
-### Backend & Databases
+### Backend & APIs
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### Databases & ORM
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512BD4?style=flat-square&logo=.net&logoColor=white)
+
+### Frontend & Mobile
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![PM2](https://img.shields.io/badge/-PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### Mobile Platforms
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Google Play](https://img.shields.io/badge/-Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)
-
-### Additional Skills
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### Additional Technologies
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
 ---
 
@@ -77,31 +77,69 @@ Desarrollador Full Stack especializado en desarrollo móvil y web, con enfoque e
 
 ## 🎯 Proyectos Destacados
 
-### 🏢 Galilei Smart Solutions
-Aplicaciones empresariales para gestión y ventas:
+### 🏢 Backend APIs - Galilei Smart Solutions
+- **Gali360 Web** - Plataforma empresarial con Next.js + Supabase (PostgreSQL)
+- **GaliSales API** - Backend para app de ventas móvil
+- **Galimate API** - Sistema de estimaciones y cotizaciones
 
-- **[GaliSales App](https://github.com/galileicloud/galisales-app)** - Aplicación móvil de ventas (React Native + Expo)
-- **[Galimate App](https://github.com/galileicloud/galimate-app)** - Sistema de estimaciones (React Native + Expo)
-- **[Gali360 Web](https://github.com/galileicloud/gali360-web)** - Plataforma web corporativa (Next.js)
+### 🔧 APIs & Integraciones
+- **[Memora API](https://github.com/ejmontana/memora-api)** - API de recordatorios con IA (Node.js + TypeScript + SQL Server + Telegram)
+- **[MCP SQL Server](https://github.com/ejmontana/mcp-sql-server)** - Servidor MCP para integración con SQL Server
+- **[WebApiNLayersEmpty](https://github.com/ejmontana/WebApiNLayersEmpty)** - Template de API REST con arquitectura N-Capas (.NET)
+- **[IntegracionApiEk](https://github.com/ejmontana/IntegracionApiEk)** - Sistema de integración empresarial
+
+### 🤖 Bots & Automatización
+- **API Bot WhatsApp** - Sistema de automatización de mensajería
+- **Flow WS Bot** - Bot de flujos automatizados
 
 ### 🏥 Proyectos Médicos
 - **[Medi-Dosis](https://github.com/ejmontana/medi-dosis)** - Calculadora de dosificación médica
+- **[SISCONME](https://github.com/ejmontana/SISCONME)** - Sistema de control médico
 
-### 🔧 Herramientas & Automatización
-- **CI/CD Workflows** - Implementación de pipelines automatizados
-- **Branch Protection** - Gestión de políticas de repositorio
-- **WhatsApp Bots** - Automatización de comunicaciones
+### 🎮 Blockchain & NFT
+- **[APINFT](https://github.com/ejmontana/APINFT)** - API para gestión de NFTs
+- **Staking Systems** - Plataformas de staking para criptomonedas
 
 ---
 
 ## 🌟 Áreas de Especialización
 
-- 📱 **Desarrollo Mobile**: React Native, Expo, Android
-- 🌐 **Desarrollo Web**: Next.js, React, TypeScript
-- 🔄 **CI/CD**: GitHub Actions, automatización de despliegues
-- 🏗️ **Arquitectura**: Diseño de sistemas escalables y mantenibles
-- 📊 **Gestión de Proyectos**: Trabajo colaborativo, code reviews
-- 🎨 **UI/UX**: Implementación de diseños responsivos y accesibles
+- 🏗️ **Arquitectura de Software**: N-Capas, Clean Architecture, DDD
+- 🔌 **Diseño de APIs**: REST, GraphQL, microservicios
+- 🗄️ **Bases de Datos**: Diseño, optimización, stored procedures, triggers
+- 🔐 **Seguridad**: JWT, OAuth, encriptación, buenas prácticas
+- 📊 **Patrones de Diseño**: Repository, Unit of Work, Dependency Injection, Factory
+- 🔄 **Integración Continua**: GitHub Actions, deployment automation
+- 📱 **Full Stack**: Backend fuerte con capacidades frontend/mobile
+- 🧪 **Testing**: Unit tests, integration tests
+
+---
+
+## 💼 Tecnologías por Categoría
+
+```plaintext
+Backend Frameworks:
+├── .NET Core/Framework (C#)
+├── Node.js (Express, NestJS)
+└── TypeScript para APIs escalables
+
+Databases:
+├── SQL Server (principal)
+├── PostgreSQL/Supabase
+├── MongoDB (NoSQL)
+└── MySQL
+
+Mobile & Web:
+├── React Native + Expo
+├── Next.js (SSR/SSG)
+└── React + TypeScript
+
+DevOps:
+├── Docker containerization
+├── GitHub Actions CI/CD
+├── Nginx reverse proxy
+└── PM2 process management
+```
 
 ---
 
@@ -110,6 +148,7 @@ Aplicaciones empresariales para gestión y ventas:
 - 💼 LinkedIn: [Enderson Montana](https://linkedin.com/in/enderson-montana)
 - 📧 Email: ejmontana@example.com
 - 🌐 Organización: [@galileicloud](https://github.com/galileicloud)
+- 🚀 Especialidad: **Backend Development** | **API Design** | **Database Architecture**
 
 ---
 
@@ -118,5 +157,5 @@ Aplicaciones empresariales para gestión y ventas:
 </div>
 
 <div align="center">
-  <i>💻 "Código limpio, soluciones efectivas" 💻</i>
+  <i>🔧 "Clean Code, Scalable Solutions, Robust APIs" 🔧</i>
 </div>
