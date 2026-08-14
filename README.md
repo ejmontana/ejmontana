@@ -118,7 +118,7 @@ Como coordinador, lidero el desarrollo de un ecosistema empresarial completo:
 | **[medi-dosis](https://github.com/ejmontana/medi-dosis)** | Calculadora de dosificación con validación de fármacos de alto riesgo · [demo](https://medi-dosis.vercel.app) | React 19 · Zod |
 | **[crud-user-admin](https://github.com/ejmontana/crud-user-admin)** | Full stack: API REST con JWT, carga de archivos y asistente con IA | Express · TS · SQL Server |
 | **[portalCautivo](https://github.com/ejmontana/portalCautivo)** | Portal cautivo WiFi con panel de administración | React · TS |
-| **[PortafolioV2](https://github.com/ejmontana/PortafolioV2)** | Portafolio profesional | Astro 5 |
+| **[ejmontana.github.io](https://github.com/ejmontana/ejmontana.github.io)** | Mi portafolio: [ejmontana.github.io](https://ejmontana.github.io) | Astro 5 · Tailwind 4 |
 | **[simulacion-newton](https://github.com/ejmontana/simulacion-newton)** | Simulación de las leyes de Newton · [demo](https://simulacion-newton.vercel.app) | React |
 
 ---
@@ -137,7 +137,8 @@ Como coordinador, lidero el desarrollo de un ecosistema empresarial completo:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enderson_Montana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/endersonmontana)
+[![Portafolio](https://img.shields.io/badge/Portafolio-ejmontana.github.io-7AA2F7?style=for-the-badge&logo=astro&logoColor=white)](https://ejmontana.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enderson_Montana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/enderson-montana)
 [![Email](https://img.shields.io/badge/Email-enderson__josep%40hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enderson_josep@hotmail.com)
 
 <br/>
