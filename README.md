@@ -4,6 +4,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=620&color=58A6FF&lines=Coordinador+de+IT+%26+Tech+Lead;Agentes+aut%C3%B3nomos+con+Claude+Code+y+MCP;AWS+%C2%B7+Terraform+%C2%B7+Spec-Driven+Development;.NET+%C2%B7+Node.js+%C2%B7+React+Native+%C2%B7+SQL+Server" alt="Typing SVG" />
 
+<br/>
+
+<a href="https://ejmontana.github.io">
+  <img src="https://img.shields.io/badge/★_Visita_mi_portafolio-ejmontana.github.io-BB9AF7?style=for-the-badge&logo=astro&logoColor=white&labelColor=0B0F1A" alt="Portafolio"/>
+</a>
+
 </div>
 
 ## 👋 Sobre mí
