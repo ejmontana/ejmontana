@@ -10,8 +10,6 @@
 
 Soy **Coordinador de IT y Tech Lead** en **Galilei Smart Solutions**: lidero el equipo técnico que construye el ecosistema completo de la empresa — web, móvil, APIs e infraestructura en AWS — y donde más invierto hoy es en **integrar IA de verdad en el ciclo de desarrollo y en el producto**: agentes autónomos, servidores MCP propios y desarrollo dirigido por especificaciones.
 
-Me interesa el cruce entre software y salud — de ahí [medi-dosis](https://github.com/ejmontana/medi-dosis).
-
 ---
 
 ## 🤖 Ingeniería de IA
