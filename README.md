@@ -106,12 +106,14 @@ Como coordinador, lidero el desarrollo de un ecosistema empresarial completo:
 | Producto | Qué es | Stack |
 |---|---|---|
 | **Gali360 / GaliSuite Web** | Back-office comercial y financiero multi-tenant con chatbot IA integrado | Next.js 16 · Supabase · Arquitectura Hexagonal + DDD |
-| **GaliSales** | App móvil de ventas en campo: pedidos, cobranza, GPS tracking en background | React Native · Expo · EAS · Clean Architecture |
+| **GaliSales / Galimate** | Apps móviles de ventas en campo y cotizaciones: pedidos, cobranza, GPS tracking en background | React Native · Expo · EAS · Clean Architecture |
 | **Gali BI** | App móvil de Business Intelligence con motor de KPIs estilo DAX | Expo · Supabase · RLS endurecido |
 | **ERP web** | 16 módulos de negocio (facturación, cartera, bancos, logística…) | React · .NET Web API · SQL Server |
-| **Hub bancario** | Conciliación de pagos multi-banco: webhooks con HMAC-SHA256, OAuth2, auto-conciliación | .NET 9 · N-Capas · multi-tenant |
+| **WebApiBankHub** | Conciliación de pagos multi-banco: webhooks con HMAC-SHA256, OAuth2, auto-conciliación | .NET 9 · N-Capas · multi-tenant |
 
 **Integraciones empresariales**: SAP → ERP, puente REST para Microsoft Dynamics GP, WhatsApp Flows de Meta (cifrado RSA-OAEP + AES-GCM), y suites de addons custom para **Odoo 18** (POS, moneda dual, eCommerce con checkout por WhatsApp).
+
+**También**: Senior Software Engineer (remoto) en **Naxmek Business S.R.L.** (República Dominicana) — soluciones empresariales con .NET Core para mercado internacional.
 
 > El código de estos proyectos es privado por acuerdos de confidencialidad. Los detalles de arquitectura los cuento con gusto en una entrevista.
 
