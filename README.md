@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Enderson%20Monta%C3%B1a&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Tech%20Lead%20%C2%B7%20Full%20Stack%20%C2%B7%20Ingenier%C3%ADa%20de%20IA&descSize=18&descAlignY=52" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Enderson%20Monta%C3%B1a&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Tech%20Lead%20%C2%B7%20Full%20Stack%20%C2%B7%20Ingenier%C3%ADa%20de%20IA%20%C2%B7%20AWS&descSize=18&descAlignY=52" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=620&color=58A6FF&lines=Coordinador+de+Proyectos+%26+Tech+Lead;Agentes+aut%C3%B3nomos+con+Claude+Code+y+MCP;AWS+%C2%B7+Terraform+%C2%B7+Spec-Driven+Development;.NET+%C2%B7+Node.js+%C2%B7+React+Native+%C2%B7+SQL+Server" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=620&color=58A6FF&lines=Coordinador+de+IT+%26+Tech+Lead;Agentes+aut%C3%B3nomos+con+Claude+Code+y+MCP;AWS+%C2%B7+Terraform+%C2%B7+Spec-Driven+Development;.NET+%C2%B7+Node.js+%C2%B7+React+Native+%C2%B7+SQL+Server" alt="Typing SVG" />
 
 </div>
 
 ## 👋 Sobre mí
 
-Soy **Coordinador de Proyectos y Tech Lead** en **Galilei Smart Solutions**: lidero el equipo técnico que construye el ecosistema completo de la empresa — web, móvil, APIs e infraestructura — y donde más invierto hoy es en **integrar IA de verdad en el ciclo de desarrollo y en el producto**: agentes autónomos, servidores MCP propios y desarrollo dirigido por especificaciones.
+Soy **Coordinador de IT y Tech Lead** en **Galilei Smart Solutions**: lidero el equipo técnico que construye el ecosistema completo de la empresa — web, móvil, APIs e infraestructura en AWS — y donde más invierto hoy es en **integrar IA de verdad en el ciclo de desarrollo y en el producto**: agentes autónomos, servidores MCP propios y desarrollo dirigido por especificaciones.
 
-También estudio Medicina, y me gusta el cruce entre software y salud (de ahí [medi-dosis](https://github.com/ejmontana/medi-dosis)).
+Me interesa el cruce entre software y salud — de ahí [medi-dosis](https://github.com/ejmontana/medi-dosis).
 
 ---
 
@@ -129,10 +129,7 @@ Como coordinador, lidero el desarrollo de un ecosistema empresarial completo:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ejmontana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejmontana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="langs"/>
-
-<img src="https://streak-stats.demolab.com?user=ejmontana&theme=tokyonight&hide_border=true&locale=es" height="165" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=ejmontana&theme=tokyonight&hide_border=true&locale=es" height="180" alt="streak"/>
 
 </div>
 
